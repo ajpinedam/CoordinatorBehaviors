@@ -2,10 +2,10 @@
 
 
 ## What is it?
-For now, this is a C# port of the [CoordinatorBehaviorExample](https://github.com/saulmm/CoordinatorBehaviorExample) by [Saúl Molinero](https://github.com/saulmm),
+For now, this is a C# port of the [CoordinatorBehaviorExample](https://github.com/saulmm/CoordinatorBehaviorExample) by [SaÃºl Molinero](https://github.com/saulmm),
 a little Behavior and Animator that helps you create an Avatar to Image transition in a Toolbar.
 
-Later on, I intend to add more custom animatios that I can find or implement.
+Later on, I intend to add more custom animations that I can find or implement.
 
 ## MinSDK version
 
@@ -18,7 +18,7 @@ This normally is an ImageView. Later I'll add an example.
 
 ## Contributions
 
-Feel free to create issues. 
+Feel free to create issues.
 
 ## License
 
